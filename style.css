@@ -36,6 +36,39 @@ figcaption {
     margin-top: 5px;
 }
 
+/* Table Styles */
+
+.schedule-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 25px;
+    font-size: 0.95rem;
+    background-color: #fff;
+}
+
+.schedule table caption {
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.schedule-table th,
+.schedule-table td {
+    border: 1px solid #444;
+    padding: 8px;
+    text-align: center;
+}
+
+.schedule-table th {
+    background-color: #e2e2e2;
+    font-weight: bold;
+}
+
+.schedule-table tbody th {
+    background-color: #f0f0f0;
+    width: 90px;
+    font-weight: bold;
+}
 
 
    
