@@ -70,9 +70,23 @@ figcaption {
     font-weight: bold;
 }
 
+/* Color coding */
+.course {
+    background-color: #cde8ff; /* Light Blue */ 
+}
 
-   
-   
+.dentist {
+    background-color: #ffd6d6; /*  Light Red */
+}
+
+.test {
+    font-weight: bold;
+    border: 2px solid red;
+}
+
+.outing {
+    background-color: #d9ffd6; /* Light Green */
+}
 
 
 
